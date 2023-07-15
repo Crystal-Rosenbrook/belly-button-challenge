@@ -1,6 +1,6 @@
 # javascript-challenge
 
-Homework file: app.js
+Homework file: index.html, samples.json, app.js
 
 Referenced course files, Stack Overflow, Slack, plotly.com/javascript, geeksforgeeks.org, developer.mozilla.org and ChatGPT to complete this homework
 
